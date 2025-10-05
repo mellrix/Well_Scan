@@ -144,12 +144,5 @@ python manage.py runserver
 
 ---
 
-## 📧 **Contact**  
-For any queries, suggestions, or contributions, feel free to reach out:  
-- **Email:** [abhiyankyadav51@gmail.com](abhiyankyadav51@gmail.com)  
-- **GitHub Repository:** [[Repository]((https://github.com/Abhiyank51/Well_Scan2.0/))  ](https://github.com/Abhiyank51/Well_Scan2.0/)
-
----
-
 ## 📜 **License**  
 This project is licensed under the [MIT License](LICENSE).  
